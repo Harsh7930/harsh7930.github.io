@@ -7,6 +7,7 @@ This repository publishes the GitHub Pages landing page for my Backend Developme
 ## Project links
 
 - [Theory materials](Theory/)
+- [Assignment 01: Notes App](Theory/Assignment-1-Notes-App/)
 - [Lab and backend projects](Lab/)
 - [Main Backend Development repository](https://github.com/Harsh7930/Backend-development/)
 - [Published GitHub Pages site](https://harsh7930.github.io/)
